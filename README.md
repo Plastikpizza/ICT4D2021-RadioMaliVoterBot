@@ -48,7 +48,7 @@ This command is used to remove the poll according to the number it has in /start
 This command creates a new poll. The name may contain spacesand emojis. The last four, space seperated parameters to this command are required to be parsable as time stemps by your MySQL backend.
 
 ```
-/setDate <number of poll> <start date: YYYY-MM-DD> <start time: HH:MM[:SS]> <end date: YYYY-MM-DD> <end time: HH:MM[:SS]>
+/setTime <number of poll> <start date: YYYY-MM-DD> <start time: HH:MM[:SS]> <end date: YYYY-MM-DD> <end time: HH:MM[:SS]>
 ```
 
 This command updates the times connected to a poll, indexed by its number in /start's output to the new dates and times provided as parameters.
