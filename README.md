@@ -1,6 +1,6 @@
 # ICT4D2021-RadioMaliVoterBot
 
-<img src="logo.jpg" style="width:64px"/>
+<img src="logo.jpg" width=64/>
 
 This is the Telegram bot by ICT4D 2021's group three.
 
