@@ -57,3 +57,6 @@ This command updates the times connected to a poll, indexed by its number in /st
   /help
 ```
 This command prints a help message in every language known to the Telegram bot, also giving a brief description of all commands known to it. The same message appears, when the user enters any other text to the chat. The bot is only controlled via commands - messages starting with a slash (/)
+
+## See also
+[The Backend](https://github.com/Michelindoll/ICT4D2021-RadioMaliVoterBackend)
