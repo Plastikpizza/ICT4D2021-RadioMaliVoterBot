@@ -304,9 +304,6 @@ def main() -> None:
     dispatcher.add_handler(MessageHandler(Filters.text & ~Filters.command, help))
     dispatcher.add_handler(CommandHandler("help", help))
     
-    # Start the Bot
-    PORT = int(os.environ.get('PORT', '8443'))
-    
     # add handlers
     updater.start_webhook(listen="0.0.0.0",
                       port=PORT,
