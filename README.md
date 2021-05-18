@@ -1,5 +1,7 @@
 # ICT4D2021-RadioMaliVoterBot
 
+![Logo](logo.jpg)
+
 This is the Telegram bot by ICT4D 2021's group three.
 
 This repository intents to provide a clean version, ready to be forked, set up and run using Heroku.
