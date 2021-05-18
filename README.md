@@ -21,6 +21,16 @@ There are several steps required to connect your version of this Telegram bot to
 This command acts as the entry point for the Telegram bot. It gives an overview of all currently available polls in an enumerated list
 
 ```
+  /en
+```
+This command sets the interaction language to English, which is also the standard language by default.
+
+```
+  /fr
+```
+This command sets the interaction language to French. Should this be the desired default language this can be configured in radioMaliVoterBot.py easily.
+
+```
   /info <number of poll>
 ```
 This command is used to inspect a poll using the numbers displayed in /start's output as an index. It displays start and end dates and vote-counts
