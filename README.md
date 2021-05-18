@@ -25,12 +25,18 @@ This command acts as the entry point for the Telegram bot. It gives an overview 
 ```
 This command is used to inspect a poll using the numbers displayed in /start's output as an index. It displays start and end dates and vote-counts
 
-```/delPoll <number of poll>```
+```
+/delPoll <number of poll>
+```
 This command is used to remove the poll according to the number it has in /start's outpu. When there are multiple DJ's working on the system, be sure to execute /start just before you delete poll, so the correct poll is selected.
 
-```  /newPoll <name> <start date: YYYY-MM-DD> <start time: HH:MM[:SS]> <end date: YYYY-MM-DD> <end time: HH:MM[:SS]>```
+```
+/newPoll <name> <start date: YYYY-MM-DD> <start time: HH:MM[:SS]> <end date: YYYY-MM-DD> <end time: HH:MM[:SS]>
+```
 This command creates a new poll. The name may contain spacesand emojis. The last four, space seperated parameters to this command are required to be parsable as time stemps by your MySQL backend.
 
-```  /setDate <number of poll> <start date: YYYY-MM-DD> <start time: HH:MM[:SS]> <end date: YYYY-MM-DD> <end time: HH:MM[:SS]>```
+```
+/setDate <number of poll> <start date: YYYY-MM-DD> <start time: HH:MM[:SS]> <end date: YYYY-MM-DD> <end time: HH:MM[:SS]>
+```
 
 This command updates the times connected to a poll, indexed by its number in /start's output to the new dates and times provided as parameters.
