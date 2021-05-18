@@ -1,6 +1,6 @@
 # ICT4D2021-RadioMaliVoterBot
 
-![Logo](https://doc-00-6s-docs.googleusercontent.com/docs/securesc/vjs2csq7k5auf9tt4bbl674rhqhnarhq/37brfqtnje54b4uqgmci39h0086ka2h7/1621331775000/08082471089306241373/08082471089306241373/1qOyhdDZNpG_PF4xO77yIEYN3-BNghZOn?e=view&authuser=0)
+<imt href="http://drive.google.com/uc?export=view&id=1qOyhdDZNpG_PF4xO77yIEYN3-BNghZOn"/>
 
 This is the Telegram bot by ICT4D 2021's group three.
 
