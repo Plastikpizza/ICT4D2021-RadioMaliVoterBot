@@ -50,3 +50,8 @@ This command creates a new poll. The name may contain spacesand emojis. The last
 ```
 
 This command updates the times connected to a poll, indexed by its number in /start's output to the new dates and times provided as parameters.
+
+```
+  /help
+```
+This command prints a help message in every language known to the Telegram bot, also giving a brief description of all commands known to it. The same message appears, when the user enters any other text to the chat. The bot is only controlled via commands - messages starting with a slash (/)
