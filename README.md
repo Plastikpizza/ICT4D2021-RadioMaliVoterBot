@@ -11,4 +11,5 @@ There are several steps required to connect your version of this Telegram bot to
 2. make a private copy of this repo
 3. enter your database credentials and API key into radioMaliVoterBot.py (lines 20 to 29)
 4. connect your version of this repo with your Heroku account
-5. Enjoy your Telegram bot!
+5. enter your Telegram ID into the database of your RadioMaliVoter DJ account
+6. Enjoy your Telegram bot!
